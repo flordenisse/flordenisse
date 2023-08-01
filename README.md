@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi, I'm Florencia 👋
+
+### Bioengineering student
+Interested in the field of Machine Learning.
+
+#### ✨ Proyects
+You can see my proyects here.
+
+#### 🧠 Skills
+Python - MATLAB - SQL - C#
+
+#### 📫 Contact me
+[Linkedin](https://www.linkedin.com/in/florencia-denisse-costa/)
+
 
 <!--
 **flordenisse/flordenisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
