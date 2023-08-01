@@ -1,7 +1,7 @@
 ## Hi, I'm Florencia 👋
 
 ### Bioengineering student
-Interested in the field of Machine Learning.
+Interested in the field of Machine Learning, Biomedical Image Processing and Virtual Reality.
 
 #### ✨ Proyects
 You can see my proyects here.
